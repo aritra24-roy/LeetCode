@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aritra24-roy/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/aritra24-roy/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aritra24-roy/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/aritra24-roy/LeetCode/tree/master/0120-triangle) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -30,4 +31,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/aritra24-roy/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aritra24-roy/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/aritra24-roy/LeetCode/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->
