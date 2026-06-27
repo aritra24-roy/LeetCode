@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/aritra24-roy/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aritra24-roy/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/aritra24-roy/LeetCode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aritra24-roy/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aritra24-roy/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Divide and Conquer
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/aritra24-roy/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aritra24-roy/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/aritra24-roy/LeetCode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aritra24-roy/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
