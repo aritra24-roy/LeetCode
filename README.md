@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/aritra24-roy/LeetCode/tree/master/0136-single-number) |
 | [0228-summary-ranges](https://github.com/aritra24-roy/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/aritra24-roy/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/aritra24-roy/LeetCode/tree/master/0283-move-zeroes) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aritra24-roy/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aritra24-roy/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Divide and Conquer
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/aritra24-roy/LeetCode/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/aritra24-roy/LeetCode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
