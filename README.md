@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aritra24-roy/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/aritra24-roy/LeetCode/tree/master/0136-single-number) |
 | [0228-summary-ranges](https://github.com/aritra24-roy/LeetCode/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/aritra24-roy/LeetCode/tree/master/0268-missing-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aritra24-roy/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aritra24-roy/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Divide and Conquer
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aritra24-roy/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0268-missing-number](https://github.com/aritra24-roy/LeetCode/tree/master/0268-missing-number) |
 ## Binary Tree
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aritra24-roy/LeetCode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/aritra24-roy/LeetCode/tree/master/0268-missing-number) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aritra24-roy/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Enumeration
 |  |
@@ -55,9 +58,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/aritra24-roy/LeetCode/tree/master/0268-missing-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aritra24-roy/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aritra24-roy/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/aritra24-roy/LeetCode/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/aritra24-roy/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
