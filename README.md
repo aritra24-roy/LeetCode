@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/aritra24-roy/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/aritra24-roy/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aritra24-roy/LeetCode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/aritra24-roy/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aritra24-roy/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aritra24-roy/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aritra24-roy/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -85,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aritra24-roy/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/aritra24-roy/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/aritra24-roy/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
